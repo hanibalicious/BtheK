@@ -1,0 +1,23 @@
+RULES:
+
+press the start button. It should deal 11 cards to each player.
+
+then hit the quarter button. It should deal out 3 G.O.A.L. cards to the middle of the table.
+
+Each player should have 11 cards, from their 33 card deck (1-10, +X in three suits: Emperor, King, Knight). The action marker should be kept at the top right red circle.
+
+The blue player goes first. On one's turn a player can either shoot, pass, or tackle as a single action, then the other player goes.
+
+Shoot: Play a valid combination to a goal card. That is, if a card says 3 card flush, play 3 cards of the same suit. You may play any valid combination if you are the first to play there, but you may only play higher combinations if players, including yourself, have played there. A combination is higher if it has a higher card first- so example, a 3 card flush of 1 2 9 of kings is higher than a flush of 6 7 8 of emperors. If the high card is the same, then higher suit wins. You can figure out the suit rankings, I hope. X can be used as any number, and if played as a single or as a pair or triple consisting only of xs, it it cannot be beaten. The exception is the X of a Kind goal card- to which singles, pairs, triples, foursomes, or quintets can be played, and more cards are higher (the same cards follow the standard rules), i.e. a triple will be stronger than a pair on the X of Kind goal card. 
+
+Pass: Draw as many cards as the number action it is in the quarter, e.g. draw 2 cards if it is the 2nd action in the quarter.
+
+Tackle: Discard a matching combination on the table, less one card, and then discard the combination. For example, if someone has a 1, 2, 9 of kings, one could tackle that combination with a 1 and 2 of kings, a 1 and 9 of kings, or a 2 and 9 of kings. In that case, both the cards played for the tackle, and the combination its aping, are discarded. For singles, and if a single was played to the x of a card, one needs to discard a single card of a directly lower value of the same suit. So a 2 of kings can be tackled by a 1 of kings. 1s can only be tackled by Xs, and single, pairs, or triples of Xs cannot be tackled.
+
+After each player has taken 4 turns, the quarter ends.
+
+Check to see who has last played a card (that remains) to each goal card, they collect it and put it in their prize pile. If no player has cards at a goal card, it is discarded. The start player changes to the other player, and a new quarter begins after you press the quarter button. If it is half time, the player who has fewer goal cards gets to draw 2 additional cards.
+
+The game ends after four quarters. Whoever has the most sets of G.O.A.L. cards in their prize pile wins- if it's a tie, it's the most goal cards in total collected. If still tied, it's whomever has less cards in their deck left. If still tied, the player who was born closer to Timbuktu wins. If you are twins, a duel to the death is encouraged, but not required.
+
+
